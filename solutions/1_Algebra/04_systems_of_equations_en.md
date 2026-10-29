@@ -1,8 +1,6 @@
 # Solution for 04_systems_of_equations_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Systems of Linear Equations
 
 ## Goal of the Set
@@ -130,13 +128,12 @@ For each, justify the classification: one solution, infinitely many solutions, o
 
 > **Why this exercise:** brings together the three basic cases and requires recognizing them from the structure after elimination.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

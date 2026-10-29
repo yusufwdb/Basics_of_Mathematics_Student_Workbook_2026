@@ -1,8 +1,6 @@
 # Solution for 02_derivatives_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Derivatives
 
 ## Goal of the Problem Set
@@ -126,13 +124,12 @@ $$\frac{f(x_0+h)-f(x_0)}h$$
 for $h=1$, $0.1$, and $0.01$. Compare the values with $f'(x_0)$ and explain why the difference quotient approaching a single number is consistent with the definition of the derivative, while a few computations do not replace a limit argument.
 
 > **Why this problem:** it connects the definition of the derivative with concrete calculations and teaches the distinction between observation and proof.
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

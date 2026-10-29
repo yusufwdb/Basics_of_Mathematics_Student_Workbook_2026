@@ -1,8 +1,6 @@
 # Solution for 03_matrix_inversion_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Inverse Matrix
 
 ## Goal of the Set
@@ -132,13 +130,12 @@ Compare both solutions, the number of essential steps, and state which method wa
 
 > **Why this exercise:** compares two known methods and prepares the student to choose a solution method consciously.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

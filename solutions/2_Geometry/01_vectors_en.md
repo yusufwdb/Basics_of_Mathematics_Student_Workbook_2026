@@ -1,8 +1,6 @@
 # Solution for 01_vectors_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Vectors
 
 ## Goal of the Set
@@ -119,13 +117,12 @@ Order the pairs by increasing angle between the vectors. Explain why for $a$ and
 
 > **Why this exercise:** reinforces the connection between the dot product and angle, and the distinction between direction and length.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

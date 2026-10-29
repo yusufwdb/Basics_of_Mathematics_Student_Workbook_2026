@@ -1,8 +1,6 @@
 # Solution for 05_applications_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Applications of Differential and Integral Calculus
 
 ## Goal of the Problem Set
@@ -157,13 +155,12 @@ Finally, indicate which part of the solution required modeling the problem and w
 
 > **Why this problem:** it checks full transfer to a new problem with unequal side costs and integrates the process from model construction to independent verification.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

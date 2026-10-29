@@ -1,8 +1,6 @@
 # Solution for 03_function_analysis_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Function Analysis
 
 ## Goal of the Problem Set
@@ -128,13 +126,12 @@ However, a student wrote the following conclusion:
 
 > **Why this problem:** it teaches how to diagnose an error in a completed argument and shows that a correct derivative formula is not enough if its sign is interpreted incorrectly.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

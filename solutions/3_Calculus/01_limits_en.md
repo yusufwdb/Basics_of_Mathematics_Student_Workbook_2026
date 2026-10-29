@@ -1,8 +1,6 @@
 # Solution for 01_limits_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Limits of Sequences and Functions
 
 ## Goal of the Set
@@ -122,13 +120,12 @@ Compare the observation with the analytical result and explain why a finite numb
 
 > **Why this exercise:** teaches how to distinguish intuition and observation from mathematical argument.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

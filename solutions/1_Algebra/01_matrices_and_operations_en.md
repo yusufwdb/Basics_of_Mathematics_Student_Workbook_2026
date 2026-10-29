@@ -1,8 +1,6 @@
 # Solution for 01_matrices_and_operations_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Matrices and Basic Operations
 
 ## Goal of the Set
@@ -161,13 +159,12 @@ Compute $(AB)C$ and $A(BC)$. Compare the results and the number of intermediate 
 
 > **Why this exercise:** reinforces associativity by comparing two mathematically equivalent calculation paths.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

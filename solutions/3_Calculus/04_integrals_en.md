@@ -1,8 +1,6 @@
 # Solution for 04_integrals_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Integrals
 
 ## Goal of the Problem Set
@@ -133,13 +131,12 @@ $$F(0)=3.$$
 
 > **Why this problem:** it combines recognition of substitution, the meaning of the constant of integration, and an initial condition in one problem, using only mechanisms introduced earlier.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.

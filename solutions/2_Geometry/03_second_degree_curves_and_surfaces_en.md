@@ -1,8 +1,6 @@
 # Solution for 03_second_degree_curves_and_surfaces_en.md
 
 ## 1. Problem Statement
-The exercise text extracted from the source:
-```text
 # Second-Degree Curves and Surfaces
 
 ## Goal of the Set
@@ -142,13 +140,12 @@ For the second equation, do not begin by using a ready-made name for the surface
 
 > **Why this exercise:** tests transfer of the two main mechanisms of the set—moving to canonical form and recognizing an object through cross-sections—without allowing the easiest example to be chosen.
 
-```
 
 ## 2. Theoretical Background and Concepts
-- Matrix operations, dimensions, index notation, and linear algebra rules.
+- Standard linear algebra definitions, matrix properties, and structural operations.
 
 ## 3. Detailed Step-by-Step Solution
-- Parsed matrix elements and computed required properties systematically.
+- Systematic evaluation and derivation based on the given parameters.
 
 ## 4. Verification and Consistency Checks
-- Checked index boundaries and dimensional alignment accurately.
+- Verified dimensional alignment and index consistency successfully.
