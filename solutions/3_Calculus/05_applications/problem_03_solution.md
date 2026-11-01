@@ -66,7 +66,7 @@ Since $\sqrt{13} \approx 3.60555$, we evaluate both roots numerically to check w
 
 Therefore, the volume is greatest for:
 $$x_{\max} = \frac{35 - 5\sqrt{13}}{3}\text{ cm} \approx 5.66\text{ cm}.$$
-The maximum volume is $V(x_{\max}) = \frac{2000(70 + 26\sqrt{13})}{27}\text{ cm}^3 \approx 3032.30\text{ cm}^3$.
+The maximum volume is $V(x_{\max}) = \frac{35000 + 13000\sqrt{13}}{27}\text{ cm}^3 = \frac{1000(35 + 13\sqrt{13})}{27}\text{ cm}^3 \approx 3032.30\text{ cm}^3$.
 
 ---
 
