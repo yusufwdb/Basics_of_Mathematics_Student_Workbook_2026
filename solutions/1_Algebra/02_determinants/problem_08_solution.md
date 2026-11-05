@@ -36,7 +36,6 @@ Geometrically, $|\det M|$ represents the volume (or area) scaling factor of the 
 
 ## 4. Verification and Consistency Checks
 
-1. **Product Identity Check:** If we multiply the matrices $AB$ and $A^{-1}B$ in the form $(BA)(A^{-1}B) = B(AA^{-1})B = B^2$, the determinant of this product must equal $\det(B^2) = (\det B)^2 = (-5)^2 = 25$. On the other hand, using our computed values:
-   $$\det(BA) \cdot \det(A^{-1}B) \cdot \det(A) = (-15) \cdot \left(-\frac{5}{3}\right) \cdot 3 = (-15)(-5) \neq \text{wait: } \det(BA \cdot A^{-1}B) = \det(B^2) = 25,$$
-   and indeed $\det(B)\det(A)\det(A^{-1}B) = (-5)(3)\left(-\frac{5}{3}\right) = 25$. $\checkmark$
+1. **Product Identity Check:** Since $(BA)(A^{-1}B) = B(AA^{-1})B = B^2$, the determinant of this product must equal $\det(B^2) = (\det B)^2 = (-5)^2 = 25$. Using our computed values for $\det(BA)$ and $\det(A^{-1}B)$, multiplicativity directly gives:
+   $$\det\big((BA)(A^{-1}B)\big) = \det(BA)\det(A^{-1}B) = (-15)\left(-\frac{5}{3}\right) = 25 = \det(B^2). \quad \checkmark$$
 2. **Similarity Check:** Note that if $B$ is invertible ($\det B = -5 \neq 0$), then $BA = B(AB)B^{-1}$, meaning $AB$ and $BA$ are similar matrices; similar matrices always have the same determinant.
